@@ -1,0 +1,8 @@
+[gd_resource type="Resource" script_class="board" load_steps=2 format=3 uid="uid://28n1eorhyram"]
+
+[ext_resource type="Script" path="res://board.gd" id="1_mvcl5"]
+
+[resource]
+script = ExtResource("1_mvcl5")
+size = Vector2(20, 20)
+cell_size = Vector2(80, 80)
